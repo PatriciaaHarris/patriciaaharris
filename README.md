@@ -10,3 +10,10 @@ Strong Skills :
 - Creativity
 - Problem Solving
 
+Technology :
+-Excel
+-Word
+-User Level
+
+Projects :
+file:///Users/patriciaharris/Documents/HOMEWORK/Activity_Play..py
